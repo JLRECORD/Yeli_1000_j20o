@@ -1,0 +1,1 @@
+[{"artista":"Yeli 1000","foto":"https://cdn.jsdelivr.net/gh/JLRECORD/Yeli_1000_j20o/la_hola_grande.jpg","musica":"https://cdn.jsdelivr.net/gh/JLRECORD/Yeli_1000_j20o/la_hola_grande.mp3","campo1":"Pop","id":"CgC7O","campo2":"https://jlrecord.github.io/Yeli_1000_j20o/la_hola_grande.html","publicacion":"la hola grande"}]
